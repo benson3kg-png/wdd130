@@ -1,0 +1,26 @@
+:root {
+    --primary-color: #052f05;
+    --secondary-color: #ffcaff;
+    --accent-color: #008a00;
+    --heading-font: "poppind", sans-serif;
+    --paragraph-font: "Roboto", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Class Selectors */
+.box {
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0 / 10%);
+    padding: 1rem;
+    background-color: #ddd;
+    color: 000;
+}
+
+main img {
+    float: right;
+}
